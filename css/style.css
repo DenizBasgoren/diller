@@ -1,0 +1,35 @@
+.blue {
+	color: lightseagreen;
+}
+
+.green {
+	color: greenyellow;
+}
+
+.yellow {
+	color: gold;
+}
+
+.red {
+	color: red;
+}
+
+.a01 {
+	position: relative;
+	right: 40%;
+	top: 10%;
+}
+
+.fullsc {
+	display: block;
+	height: 100%;
+	width: 100%;
+}
+
+.noborder {
+	border: 0px;
+}
+
+.smalltable * {
+	font-size: 0.8em !important;
+}
